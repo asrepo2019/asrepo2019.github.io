@@ -12,7 +12,8 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
-
+# theme 
+theme: jekyll-theme-minimal
 # Name of website
 title: My website
 
